@@ -7,4 +7,4 @@
 #### this downloads the dependencies for *numpy*, *tensorflow , pillow and tkinter* ###
 ### once all are install  you can run the code using the following line in yout terminal.###
 
-``` test.py ```
+``` python test.py ```
